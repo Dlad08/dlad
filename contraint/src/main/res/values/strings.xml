@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contraint</string>
+    <string name="save">save</string>
+    <string name="dob">dob</string>
+    <string name="Last_name">lastname</string>
+    <string name="middle_name">middle name</string>
+    <string name="first_name">first anme</string>
+</resources>
