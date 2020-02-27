@@ -1,2 +1,2 @@
-include ':app', ':myapplication', ':contraint', ':relative', ':recylerview'
+include ':app', ':myapplication', ':contraint', ':relative', ':recylerview', ':navigationdraweractivity', ':fragements'
 rootProject.name='My Application'

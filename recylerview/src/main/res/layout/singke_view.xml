@@ -6,7 +6,8 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/colorPrimary">
+    android:background="@color/colorPrimary"
+    android:id="@+id/singleCardConstraint">
 
 
     <androidx.cardview.widget.CardView
