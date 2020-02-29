@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerEmployee" type="id" />
+    <item name="txtName" type="id" />
+    <item name="txtAge" type="id" />
+    <item name="txtSalary" type="id" />
+</resources>

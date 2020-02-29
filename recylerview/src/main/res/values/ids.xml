@@ -2,4 +2,5 @@
 <resources>
     <item name="btnYes" type="id" />
     <item name="btnNo" type="id" />
+    <item name="textView11" type="id" />
 </resources>
